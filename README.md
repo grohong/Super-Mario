@@ -32,7 +32,7 @@
 |population|서식 분포 유형|abundant=a, clustered=c, numerous=n, scattered=s, several=v, solitary=y|
 |habitat|서식지|grasses=g, leaves=l, meadows=m, paths=p, urban=u, waste=w, woods=d|
 
-![mush room](/resource/mush room.png)
+![mush room](resource/mush room.png)
 
 - 주름살 (gill) : 생식세포인 홀씨를 생성하는 버섯의 한 부분. 갓의 아랫면에 있다.
 
