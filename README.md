@@ -31,3 +31,21 @@
 |spore-print-color|포자 색깔|black=k, brown=n, buff=b, chocolate=h, green=r, orange=o, purple=u, white=w, yellow=y|
 |population|서식 분포 유형|abundant=a, clustered=c, numerous=n, scattered=s, several=v, solitary=y|
 |habitat|서식지|grasses=g, leaves=l, meadows=m, paths=p, urban=u, waste=w, woods=d|
+
+![mush room](./resource/mush room.png)
+
+- 주름살 (gill) : 생식세포인 홀씨를 생성하는 버섯의 한 부분. 갓의 아랫면에 있다.
+
+- 대주머니 / 균포 (volva): 미성숙한 버섯을 완전히 감싸고 있던 막이 줄기가 생장함에 따라 찢어진 흔적.
+
+- 균사 / 팡이실 (hypha): 간혹 흰색을 띠는 미세한 사상체. 버섯의 생장에 필요한 물과 유기물질을 흡수한다.
+
+- 균사체 (mycelium): 홀씨의 발아를 통해 생성된 균사가 서로 얽힌 집합체. 여기에서 버섯의 지상 부분이 발달한다.
+
+- 홀씨 / 포자 (spores):  일반적으로 대기로 방출된 뒤 기질에 떨어져서 새로운 버섯이 생겨나게 하는 미세한 생식세포.
+
+- 줄기 (stem): 버섯의 갓을 지지하는 기둥.
+
+- 턱받이 (ring): 갓의 아래에서 줄기를 둘러싼 막. 미성숙한 버섯의 주름살을 감싸고 있다가 갓이 성장하면서 파열된 막의 흔적이다.
+
+- 갓 (cap): 형태와 색상이 다양한 버섯의 상단부. 주름살을 보호한다. 대개 머리에 쓰는 모자를 닮은 형태를 띠는 데서 그 이름이 비롯되었다.
